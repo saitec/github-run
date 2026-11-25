@@ -1,6 +1,6 @@
 # 📏 rules
 
-The daily routine follows these. Every day. No exceptions.
+The GitHub Run follows these. Every day. No exceptions.
 
 ## 🔒 never goes public
 

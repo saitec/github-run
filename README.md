@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🌱 daily
+# 🏃 GitHub Run
 
 **one fix. one insight. every day.**
 
 a public notebook of things i ship while building [ShopOS](https://shopos.ai) and [SeeIt](https://5aitec.com).
-written by me, helped by Claude, reviewed before anything goes out.
+written by me, helped by Claude.
 
 </div>
 
@@ -41,7 +41,7 @@ written by me, helped by Claude, reviewed before anything goes out.
 | 🔧 [`fixes/`](fixes) | one folder per day. the patch, the tests, the PR text, the link once it's sent. |
 | 💡 [`insights/`](insights) | short notes. one idea each. written like i talk. |
 | 🧠 [`skills/`](skills) | reusable Claude skill files pulled from real work. drop them in `~/.claude/skills/`. |
-| 🦕 [`revivals/`](revivals) | my 2016 repos, brought back to life one by one. |
+| 🦕 [`revivals/`](revivals) | my 2016 repos, brought back to life. long reads, lots of ASCII. |
 | 📒 [`LOG.md`](LOG.md) | the running diary. one line per day. |
 
 ### the rules
@@ -57,6 +57,6 @@ written by me, helped by Claude, reviewed before anything goes out.
 
 <div align="center">
 
-*started 26 nov 2026 · [5aitec.com](https://5aitec.com)*
+*run #1: 26 nov 2026 · [5aitec.com](https://5aitec.com)*
 
 </div>
