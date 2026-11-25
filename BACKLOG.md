@@ -7,16 +7,16 @@ The routine picks from the top. Sai can reorder anytime.
 One old repo per day for the first week. Each gets:
 a fresh README, a "what i'd do now" note, and one real upgrade.
 
-| # | repo | from | the 2026 upgrade idea |
-|---|---|---|---|
-| 1 | [Foveated-Encoder-for-VR](https://github.com/saitec/Foveated-Encoder-for-VR) | 2016, C++ | eye-tracked foveation, now real on headsets and glasses. tie to SeeIt. |
-| 2 | [VR-Video-Compressor](https://github.com/saitec/VR-Video-Compressor) | 2016, FFmpeg fork | note what modern FFmpeg already does. archive cleanly. |
-| 3 | [Personal-AI-Project](https://github.com/saitec/Personal-AI-Project) | 2016, JS | "and then, the machine began thinking." rebuild it as a tiny MCP agent. |
-| 4 | [AI-Project](https://github.com/saitec/AI-Project) | 2016 | merge into #3 or archive. |
-| 5 | [Open-Source-College-Project](https://github.com/saitec/Open-Source-College-Project) | 2016, Python | refresh for AI-era undergrads. |
-| 6 | [aframe-boilerplate](https://github.com/saitec/aframe-boilerplate) | 2016, fork | sync with upstream or archive. |
-| 7 | [Biotechnology-website](https://github.com/saitec/Biotechnology-website) | 2016, HTML | archive with a nice README. |
-| 8 | [Movie-Trailers](https://github.com/saitec/Movie-Trailers) | 2016, Python | archive. first Udacity project, keep for nostalgia. |
+| # | repo | from | the 2026 upgrade idea | done |
+|---|---|---|---|---|
+| 1 | [Foveated-Encoder-for-VR](https://github.com/saitec/Foveated-Encoder-for-VR) | 2016, C++ | eye-tracked foveation, now real on headsets and glasses. tie to SeeIt. | ⬜ |
+| 2 | [VR-Video-Compressor](https://github.com/saitec/VR-Video-Compressor) | 2016, FFmpeg fork | note what modern FFmpeg already does. archive cleanly. | ⬜ |
+| 3 | [Personal-AI-Project](https://github.com/saitec/Personal-AI-Project) | 2016, JS | "and then, the machine began thinking." rebuild it as a tiny MCP agent. | ⬜ |
+| 4 | [AI-Project](https://github.com/saitec/AI-Project) | 2016 | merge into #3 or archive. | ⬜ |
+| 5 | [Open-Source-College-Project](https://github.com/saitec/Open-Source-College-Project) | 2016, Python | refresh for AI-era undergrads. | ⬜ |
+| 6 | [aframe-boilerplate](https://github.com/saitec/aframe-boilerplate) | 2016, fork | sync with upstream or archive. | ⬜ |
+| 7 | [Biotechnology-website](https://github.com/saitec/Biotechnology-website) | 2016, HTML | archive with a nice README. | ⬜ |
+| 8 | [Movie-Trailers](https://github.com/saitec/Movie-Trailers) | 2016, Python | archive. first Udacity project, keep for nostalgia. | ⬜ |
 
 ## 🔧 open-source hunting grounds
 
